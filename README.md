@@ -1,2 +1,3 @@
 it could be better
-merge A & B
+try to merge A and B
+
